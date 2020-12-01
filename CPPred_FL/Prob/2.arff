@@ -1,0 +1,46 @@
+@relation Protein
+@attribute Feature1 real
+@attribute Feature2 real
+@attribute Feature3 real
+@attribute Feature4 real
+@attribute Feature5 real
+@attribute Feature6 real
+@attribute Feature7 real
+@attribute Feature8 real
+@attribute Feature9 real
+@attribute Feature10 real
+@attribute Feature11 real
+@attribute Feature12 real
+@attribute Feature13 real
+@attribute Feature14 real
+@attribute Feature15 real
+@attribute Feature16 real
+@attribute Feature17 real
+@attribute Feature18 real
+@attribute Feature19 real
+@attribute Feature20 real
+@attribute Feature21 real
+@attribute Feature22 real
+@attribute Feature23 real
+@attribute Feature24 real
+@attribute Feature25 real
+@attribute Feature26 real
+@attribute Feature27 real
+@attribute Feature28 real
+@attribute Feature29 real
+@attribute Feature30 real
+@attribute Feature31 real
+@attribute Feature32 real
+@attribute Feature33 real
+@attribute Feature34 real
+@attribute Feature35 real
+@attribute Feature36 real
+@attribute Feature37 real
+@attribute Feature38 real
+@attribute Feature39 real
+@attribute Feature40 real
+@attribute Prob {0,1}
+@data
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
