@@ -1,0 +1,12 @@
+@relation Protein
+@attribute Feature1 real
+@attribute Feature2 real
+@attribute Feature3 real
+@attribute Feature4 real
+@attribute Feature5 real
+@attribute Feature6 real
+@attribute Feature7 real
+@attribute Feature8 real
+@attribute Feature9 real
+@attribute class {0,1}
+@data
