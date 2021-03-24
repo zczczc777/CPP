@@ -1,6 +1,6 @@
 ﻿How to use can refer to:
 D:
-cd C:\Users\Administrator\Desktop\PEP_Train
+cd C:\Users\Administrator\Desktop\PEP_CPP_Train
 java -jar PEP.jar CPPsite3_all1.txt
 
 note:
